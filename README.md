@@ -5,7 +5,7 @@ Full Stacks Developer
 ------------------ 
 * 🌍  I'm based in Hyderabad,India 
 * ✉️  You can contact me at [saipavansiripuram5@gmail.com](mailto:saipavansiripuram5@gmail.com) 
-* 🧠  I'm learning React.Js
+* 🧠  I'm exploring MERN & MEAN .
 * 👨‍💻  Portfolio [saipavansiripuram.netlify.app](https://saipavansiripuram.netlify.app)
 
 ### Skills
